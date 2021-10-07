@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malavika Samak"
+title                    : "Malavika Samak | MIT CSAIL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Malavika Samak"
@@ -24,8 +24,8 @@ description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/logo-2C-notext.svg"
+logo                     : "/assets/images/logo-2C-notext.svg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -83,7 +83,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/logo-2C-notext.svg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -114,7 +114,7 @@ author:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/malavika-samak-b8951997"
     - label: "Google Scholar"
-      icon: "google-scholar"
+      icon: "fab fa-scholar fa-xs"
       url: "https://scholar.google.co.in/citations?user=60LU7MoAAAAJ&hl=en"
     - label: "CV"
       icon: "fa fa-link"

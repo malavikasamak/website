@@ -1,20 +1,16 @@
----
-layout: home 
-author_profile: true
----
-<h1> Personal </h1>
-I am originally from India and grew up in Bantwala, a beautiful town in Karnataka, India. I 
+I"à<h1> Personal </h1>
+<p>I am originally from India and grew up in Bantwala, a beautiful town in Karnataka, India. I 
 speak two Indian languages: Kannada and Hindi. I have been trying to learn Tamil and Sanskrit
 but it is still a work in progress. Me and my husband have a toddler daughter, who keeps us 
-very busy and engaged. I now know more nursery rhymes than I ever hoped to learn :) 
+very busy and engaged. I now know more nursery rhymes than I ever hoped to learn :)</p>
 
-The pandemic has forced me to learn how to cook but as it turns out, I like it. I depend on 
-[Hebbar's Kitchen] for all the recipes.  
+<p>The pandemic has forced me to learn how to cook but as it turns out, I like it. I depend on 
+<a href="https://hebbarskitchen.com/">Hebbarâ€™s Kitchen</a> for all the recipes.</p>
 
-# Random Facts
-I have tried several metaphorical hats in the past to see what fits. This is a random
-set of things I did.
-
+<h1 id="random-facts">Random Facts</h1>
+<p>I have tried several metaphorical hats in the past to see what fits. This is a random
+set of things I did.</p>
+<div id="random">  
    1) Completed the SF half marathon in 2015.
 
    2) Cleaned a disgusting street corner near IISc, Bangalore over one weekend. It was with a group who are called [The Ugly Indian].
@@ -33,10 +29,6 @@ set of things I did.
     
    8) My parents are both verterniary doctors, so growing up, I used to occasionally assist them in treatment and surgeries. I'd
    love to do that again if I get a chance.
+</div>
 
-[Hebbar's Kitchen]: https://hebbarskitchen.com/ 
-[The Ugly Indian]: https://en.wikipedia.org/wiki/The_Ugly_Indian
-[Vipassana]: https://www.dhamma.org/
-[Rashtrapathi award]: https://en.wikipedia.org/wiki/Rashtrapati_Award
-[Carnatic]: https://en.wikipedia.org/wiki/Carnatic_music
-[Bharathanatyam]: https://en.wikipedia.org/wiki/Bharatanatyam
+:ET
