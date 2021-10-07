@@ -69,7 +69,7 @@ tool_pubs:
     booktitle: "Proceedings of the companion publication of the 2014 ACM SIGPLAN Conference on Systems, Programming, and Applications: Software for Humanity (SPLASH)"
 ---
 
-# Publications
+<h1> Publications </h1>
 
 {% for pub in page.pubs %}
 {% unless pub.hidden %}

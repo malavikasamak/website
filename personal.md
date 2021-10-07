@@ -2,7 +2,7 @@
 layout: home 
 author_profile: true
 ---
-# Personal
+<h1> Personal </h1>
 I am originally from India and grew up in Bantwala, a beautiful town in Karnataka, India. I 
 speak two Indian languages: Kannada and Hindi. I have been trying to learn Tamil and Sanskrit
 but it is still a work in progress. Me and my husband have a toddler daughter, who keeps us 
