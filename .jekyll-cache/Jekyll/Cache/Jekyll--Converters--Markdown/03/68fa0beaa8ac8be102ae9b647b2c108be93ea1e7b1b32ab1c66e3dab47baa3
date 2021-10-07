@@ -1,0 +1,23 @@
+I"ì<h1 id="about-me">About Me</h1>
+<p>I am a Postdoctoral Associate at <a href="https://www.csail.mit.edu/">CSAIL, MIT</a> working with <a href="http://people.csail.mit.edu/rinard/">Prof. Martin Rinard</a>. I received my PhD from <a href="https://iisc.ac.in/">IISc, Bangalore</a> and my PhD was supported by a <a href="https://research.google/outreach/phd-fellowship/">Google India PhD fellowship</a>.
+My research interests are in programming languages and software engineering. I am interested in building techniques and tools that can improve developer productivity and software reliability.</p>
+
+<p>In the past I have worked on synthesizing targeted multi-threaded tests for detecting concurrency bugs in software libraries, improving the precision
+of dynamic analysis for bug detection, synthesizing adapters to enable software library replacement and applying program synthesis for optimizing database queries.</p>
+
+<p>Currently, I am building search techniques to search for alternate libraries that implement similar
+functionality as a given library. I have built a tool named ClassFinder, that can search for similar 
+Java classes as a query class. ClassFinder has shown promising results and is able to find similar
+classes from a search space as large as 600 thousand classes.</p>
+
+<h1 id="news">News</h1>
+<div class="boxed">
+<ul>
+ <li> I am in the job market this year!</li>
+ <li> Serving on the PLDI 2022 PC</li>
+ <li> Serving on the SC 2021 PC </li>
+ <li> Serving on the SPLASH 2021 SRC</li>
+</ul>
+</div>
+
+:ET
