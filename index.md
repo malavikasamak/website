@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 ---
-#
+# About Me
 
 I am a Postdoctoral Associate at [CSAIL, MIT] working with [Prof. Martin Rinard]. I received my PhD from [IISc, Bangalore] and my PhD was supported by a [Google India PhD fellowship].
 My research interests are in programming languages and software engineering. I am interested in building techniques and tools that can improve developer productivity and software reliability.
