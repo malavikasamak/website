@@ -2,7 +2,7 @@
 layout: home 
 author_profile: true
 ---
-# Research
+<h1> Research </h1>
 
 I am interested in building systems that enable developers
 to maximize the available resources. One such resource that
@@ -71,3 +71,4 @@ their systems to adapt to evolving environments or tooling. While
  [Omen+]: https://sites.google.com/view/omen-plus/home
  [Narada]: https://sites.google.com/view/samak-narada/home
  [Intruder]: https://sites.google.com/view/samak-intruder/home
+ [200 million]: https://github.com/about
