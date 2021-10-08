@@ -9,10 +9,10 @@ My research interests are in programming languages and software engineering. I a
 In the past I have worked on synthesizing targeted multi-threaded tests for detecting concurrency bugs in software libraries, improving the precision
 of dynamic analysis for bug detection, synthesizing adapters to enable software library replacement and applying program synthesis for optimizing database queries. 
 
-Currently, I am building search techniques to search for alternate libraries that implement similar
-functionality as a given library. I have built a tool named ClassFinder, that can search for similar 
-Java classes as a query class. ClassFinder has shown promising results and is able to find similar
-classes from a search space as large as 600 thousand classes.
+Currently, I am building techniques to search for alternate libraries that implement similar
+functionality as a given library. I have designed and implemeted a tool named ClassFinder, that can search for similar 
+Java classes that can replace the given class. The tool has shown promising results and is able to find good replacement
+classes from a search corpus containing ~600 thousand open source Java classes.
 
 # News
 <div class="boxed">
