@@ -3,28 +3,23 @@ layout: home
 author_profile: true
 ---
 <h1> About Me </h1>
-I am a Postdoctoral Associate at [CSAIL, MIT] working with [Prof. Martin Rinard]. I received my PhD from [IISc, Bangalore] and my PhD was supported by a [Google India PhD fellowship].
-My research interests are in programming languages and software engineering. I am interested in building techniques and tools that can improve developer productivity and software reliability.
+I am a Postdoctoral Associate at [CSAIL, MIT] working with [Prof. Martin Rinard]. 
+I received my PhD from [IISc, Bangalore] and my PhD was supported 
+by a [Google India PhD fellowship]. My research interests are in programming 
+languages and software engineering: static and dynamic program analysis, software testing 
+and reliability, code search, code generation and code migration. My long term goal is
+to build analyses that can improve developer productivity and software reliability.
 
-In the past I have worked on synthesizing targeted multi-threaded tests for detecting concurrency bugs in software libraries, improving the precision
-of dynamic analysis for bug detection, synthesizing adapters to enable software library replacement and applying program synthesis for optimizing database queries. 
+I have worked on synthesizing targeted multithreaded tests 
+for detecting concurrency bugs in software libraries, improving the precision
+of dynamic analysis for bug detection, synthesizing adapters 
+to enable software library replacement and applying program synthesis for optimizing database queries. 
+Currently, I am working on efficient search techniques to identify replacement 
+Java classes from large search spaces.
 
-Currently, I am building techniques to search for alternate libraries that implement similar
-functionality as a given library. I have designed and implemeted a tool named ClassFinder, that can search for similar 
-Java classes that can replace the given class. The tool has shown promising results and is able to find good replacement
-classes from a search corpus containing ~600 thousand open source Java classes.
-
-# News
-<div class="boxed">
-<ul>
- <li> I am on the job market this year!</li>
- <li> Serving on the PLDI 2022 PC</li>
- <li> Serving on the SC 2021 PC </li>
- <li> Serving on the SPLASH 2021 SRC</li>
-</ul>
-</div>
+<h3> I am on the job market this year!</h3>
 
 [CSAIL, MIT]: https://www.csail.mit.edu/
 [Prof. Martin Rinard]: http://people.csail.mit.edu/rinard/
 [IISc, Bangalore]: https://iisc.ac.in/
-[Google India PhD fellowship]: https://research.google/outreach/phd-fellowship/
+[Google India PhD fellowship]: https://research.google/outreach/phd-fellowship/recipients/?category=2015

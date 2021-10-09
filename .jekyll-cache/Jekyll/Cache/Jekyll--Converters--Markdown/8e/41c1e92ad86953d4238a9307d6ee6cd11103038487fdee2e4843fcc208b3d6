@@ -1,0 +1,18 @@
+I"¯<h1> About Me </h1>
+<p>I am a Postdoctoral Associate at <a href="https://www.csail.mit.edu/">CSAIL, MIT</a> working with <a href="http://people.csail.mit.edu/rinard/">Prof. Martin Rinard</a>. 
+I received my PhD from <a href="https://iisc.ac.in/">IISc, Bangalore</a> and my PhD was supported 
+by a <a href="https://research.google/outreach/phd-fellowship/recipients/?category=2015">Google India PhD fellowship</a>. My research interests are in programming 
+languages and software engineering: static and dynamic program analysis, software testing 
+and reliability, code search, code generation and code migration. My long term goal is
+to build analyses that can improve developer productivity and software reliability.</p>
+
+<p>I have worked on synthesizing targeted multithreaded tests 
+for detecting concurrency bugs in software libraries, improving the precision
+of dynamic analysis for bug detection, synthesizing adapters 
+to enable software library replacement and applying program synthesis for optimizing database queries. 
+Currently, I am working on efficient search techniques to identify replacement 
+Java classes from large search spaces.</p>
+
+<h3> I am on the job market this year!</h3>
+
+:ET
