@@ -4,7 +4,7 @@ author_profile: true
 ---
 <h1> Personal </h1>
 I am originally from India and grew up in <a href="https://youtu.be/BfKtrj454N4">Bantwala</a>, 
-a beautiful town in Karnataka, India. I can
+a beautiful town in <a href="https://www.karnatakatourism.org/gallery/">Karnataka, India</a>. I can
 speak two Indian languages: [Kannada] and [Hindi] and am currently trying to learn [Tamil].
 The pandemic has forced me to learn how to cook. Check out
 [Hebbar's Kitchen], she has some of the best South Indian recipes.  
