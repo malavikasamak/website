@@ -1,10 +1,7 @@
----
-layout: home 
-author_profile: true
----
+I"ê
 <h1> Service </h1>
 <ul>
- <li> <a href ="https://pldi22.sigplan.org/committee/pldi-2022-pldi-program-committee">PLDI 2022</a>: Program Committee member. </li>
+ <li> <a href="https://pldi22.sigplan.org/committee/pldi-2022-pldi-program-committee">PLDI 2022</a>: Program Committee member. </li>
  <li> <a href="https://sc21.supercomputing.org/planning-committee/">SC 2021</a>: Program Committee member. </li>
  <li> <a href="https://dl.acm.org/journal/toplas">TOPLAS 2021</a>: Reviewer. </li>
  <li> <a href="https://2021.splashcon.org/committee/splash-2021-SRC-reviewers-judges">SPLASH 2021</a>: Student Research Competition Judge. </li>
@@ -15,7 +12,7 @@ author_profile: true
  <li> <a href="https://ppopp19.sigplan.org/committee/ppopp-2019-program-committee">PPoPP 2019</a>: Program Committee member. </li>
  <li> <a href="https://2019.splashcon.org/committee/splash-2019-oopsla-external-review-committee">OOPSLA 2019</a>: External Review Committee member. </li>
  <li> <a href="https://2018.splashcon.org/committee/splash-2018-oopsla-committee">OOPSLA 2018</a>: Program Committee member. </li>
- <li> <a href="https://ppopp18.sigplan.org/committee/ppopp-2018-extended-review-committee">PPoPP 2018</a>: External Review Committee member. </li>
+ <li> <a href="https://ppopp18.sigplan.org/committee/ppopp-2018-extended-review-committee">PPoPP 2018</a>: External Review Comittee memeber. </li>
  <li> <a href="https://ppopp18.sigplan.org/committee/ppopp-2018-artifact-evaluation-committee">PPoPP 2018</a>: Artifact Evaluation Committee Co-Chair. </li>
  <li> <a href="https://pldi18.sigplan.org/committee/pldi-2018-src-committee">PLDI 2018</a>: Student Research Competition Judge. </li>
  <li> <a href="https://pldi17.sigplan.org/committee/pldi-2017-artifact-evaluation-committee">PLDI 2017</a>: Artifact evaluation committee member. </li>
@@ -27,3 +24,4 @@ author_profile: true
  <li> <a href="https://2015.splashcon.org/committee/splash2015-artifacts-program-committee">OOPSLA 2015</a>: Artifact evaluation committee member. </li>
 
 </ul>
+:ET
