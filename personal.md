@@ -17,7 +17,7 @@ selection of things I did.
 
    2) Volunteered with [The Ugly Indian] group.
     
-   3) Completed ten day long meditation [course] called [Vipassana], twice. Vipassana is an ancient 
+   3) Completed ten day long meditation [course] called Vipassana, twice. [Vipassana] is an ancient 
    meditation technique originally taught by Gouthama Buddha. It involves observing your breath and your thoughts without
    any judgment.
 
