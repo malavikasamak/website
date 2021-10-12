@@ -29,7 +29,7 @@ selection of things I did.
    
    7) Received training in [Carnatic] classical music and [Bharathanatyam] as a kid.
     
-   8) My parents are both verterniary doctors, so I used to occasionally assist them in treatment and surgeries. I'd
+   8) My parents are both veterinary doctors, so I used to occasionally assist them in treatment and surgeries. I'd
    love to do that again if I get a chance.
 
    9) Hiked a few state and national parks in the US.  
