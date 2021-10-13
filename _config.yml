@@ -20,7 +20,7 @@ title                    : "Malavika Samak"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Malavika Samak"
-description              : "Malavika Samak, CSAIL, MIT"
+description              : "Malavika Samak's Homepage"
 url                      : "https://malavikasamak.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
