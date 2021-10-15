@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Malavika Samak</title>
+<!-- begin _includes/seo.html --><title>Malavika Samak | CSAIL, MIT</title>
 <meta name="description" content="Malavika Samak’s Homepage">
 
 
@@ -19,8 +19,8 @@
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Malavika Samak">
-<meta property="og:title" content="Malavika Samak">
+<meta property="og:site_name" content="Malavika Samak | CSAIL, MIT">
+<meta property="og:title" content="            Malavika Samak      CSAIL, MIT      ">
 <meta property="og:url" content="https://malavikasamak.com//personal.md.bak">
 
 
@@ -71,7 +71,7 @@
 
 
 
-  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Malavika Samak Feed">
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Malavika Samak | CSAIL, MIT Feed">
 
 
 <!-- https://t.co/dKP3o1e -->
@@ -116,14 +116,14 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/assets/images/logo-2C-notext.svg" alt="Malavika Samak"></a>
+          <a class="site-logo" href="/"><img src="/assets/images/logo-2C-notext.svg" alt="Malavika Samak | CSAIL, MIT"></a>
         
         <a class="site-title" href="/">
-          Malavika Samak
+          Malavika Samak | CSAIL, MIT
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/">About</a>
+              <a href="">About</a>
             </li><li class="masthead__menu-item">
               <a href="/research/">Research</a>
             </li><li class="masthead__menu-item">

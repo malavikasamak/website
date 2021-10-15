@@ -1,18 +1,18 @@
-I"…
+I"ž
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/assets/images/logo-2C-notext.svg" alt="Malavika Samak"></a>
+          <a class="site-logo" href="/"><img src="/assets/images/logo-2C-notext.svg" alt="Malavika Samak | CSAIL, MIT"></a>
         
         <a class="site-title" href="/">
-          Malavika Samak
+          Malavika Samak | CSAIL, MIT
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/">About</a>
+              <a href="">About</a>
             </li><li class="masthead__menu-item">
               <a href="/research/">Research</a>
             </li><li class="masthead__menu-item">

@@ -19,7 +19,7 @@ pubs:
     url: "https://drive.google.com/file/d/1b_pmTKNz9ofYbhCWgdHQmct4JQolJftB/view?usp=sharing"
 
 ---
-<h1> About Me </h1>
+<h1> Malavika Samak </h1>
 I am a Postdoctoral Associate at [CSAIL, MIT] working with [Prof. Martin Rinard]. 
 I received my PhD from [IISc, Bangalore] and was supported 
 by a [Google India PhD fellowship]. My research interests are in programming 
@@ -38,7 +38,7 @@ software library replacement \([POPL'20]\).
 Currently, I am working on efficient search techniques to identify replacement 
 Java classes from large codebase collections \([arXiv'21]\).
 
-<h3> I am on the job market this year!</h3>
+<h3 style="color:Red;"> I am on the job market this year!</h3>
 
 <h2> Select Publications</h2>
 {% for pub in page.pubs %}
