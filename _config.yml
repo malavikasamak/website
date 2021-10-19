@@ -118,7 +118,7 @@ author:
       url: "https://scholar.google.co.in/citations?user=60LU7MoAAAAJ&hl=en"
     - label: "CV"
       icon: "fa fa-link"
-      url: "https://drive.google.com/open?id=0B50Ds4dSESBaTVZGM2x6Yi10TlE"
+      url: "/documents/Resume.pdf"
     - label: "Thesis"
       icon: "fa fa-link"
       url: "https://drive.google.com/file/d/0B00Hh2TNnne4MXBzZDFPSGt0d1E/view?usp=sharing"
