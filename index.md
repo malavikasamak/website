@@ -22,8 +22,8 @@ pubs:
 <h1> Malavika Samak </h1>
 I am a Postdoctoral Associate at [CSAIL, MIT] working with [Prof. Martin Rinard]. 
 I received my PhD from [IISc, Bangalore] and was supported 
-by a [Google India PhD fellowship]. My research interests are in program 
-analysis and software engineering. More specifically:
+by a [Google India PhD fellowship]. My research interests are in programming
+languages and software engineering. More specifically:
 <li> static and dynamic program analysis </li>
 <li> software testing and reliability </li>
 <li> code search and replacement </li> 
