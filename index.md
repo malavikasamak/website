@@ -2,41 +2,43 @@
 layout: home
 author_profile: true
 pubs:
-  - author: "<b>Malavika Samak</b>, Jose Pablo Cambronero, Martin Rinard"
-    title: "Searching for Replacement Classes"
-    booktitle: "Under Submission"
-    url: "https://arxiv.org/pdf/2110.05638.pdf"
-
   - author: "<b>Malavika Samak</b>, Deokhwan Kim, Martin Rinard"
     title: "Synthesizing Replacement Classes"
-    booktitle: "47th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2020)"
-    url: "https://drive.google.com/file/d/184G7NeSGOVaKcO8TpI5p3epqQQarHhwz/view?usp=sharing"
+    booktitle: "ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2020)"
+    url: "/documents/samak-popl20.pdf"
 
 
   - author: "<b>Malavika Samak</b>, Omer Tripp, Murali  Krishna Ramanathan"
     title: "Directed Synthesis of Failing Concurrent Executions"
     booktitle: "Annual Conference on Object-oriented Programming, Systems, Languages, and Applications (OOPSLA 2016)"
-    url: "https://drive.google.com/file/d/1b_pmTKNz9ofYbhCWgdHQmct4JQolJftB/view?usp=sharing"
+    url: "/documents/samak-oopsla16.pdf"
 
+  - author: "<b>Malavika Samak</b>, Murali Krishna Ramanathan, Suresh Jagannathan"
+    title: "Synthesizing Racy Tests"
+    booktitle: "Annual ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2015)"
+    url: "/documents/samak-pldi15.pdf"
 ---
 <h1> Malavika Samak </h1>
-I am a Postdoctoral Associate at [CSAIL, MIT] working with [Prof. Martin Rinard]. 
-I received my PhD from [IISc, Bangalore] and was supported 
-by a [Google India PhD fellowship]. My research interests are in programming
-languages and software engineering. More specifically:
+<p align="justify">I am a Postdoctoral Associate at <a href="https://www.csail.mit.edu/">CSAIL, MIT</a> working with 
+<a href="http://people.csail.mit.edu/rinard/">Prof. Martin Rinard</a>. 
+I received my PhD from <a href="https://iisc.ac.in/">IISc, Bangalore</a> and was supported 
+by a <a href="https://research.google/outreach/phd-fellowship/recipients/?category=2015">Google India PhD fellowship</a>. My research interests are in programming
+languages and software engineering. More specifically: </p>
 <li> static and dynamic program analysis </li>
 <li> software testing and reliability </li>
 <li> code search and replacement </li> 
 <li> program synthesis and verification </li>
-My long term goal is
-to build analyses that can improve developer productivity and software reliability.
-I have worked on synthesizing targeted multithreaded tests 
-for detecting concurrency bugs in software libraries \([OOPSLA'14], [PLDI'15], [FSE'15], [OOPSLA'16]\), improving the precision
-of dynamic analysis for bug detection \([PPoPP'14]\), applying program synthesis 
-for optimizing database queries \([SOSP'17]\) and synthesizing adapters to enable 
-software library replacement \([POPL'20]\). 
+<p align="justify">I am interested in designing techniques, tools, and workflows to improve developer productivity
+and software reliability. I have designed program analyses that enable developers to discover,
+reason, customize, and adapt code to effectively build defect-free software systems.
+Specifically, I have worked on synthesizing targeted multithreaded tests 
+for detecting concurrency bugs in software libraries (<a href="/documents/samak-ooplsa14.pdf">OOPSLA'14</a>, <a href="/documents/samak-pldi15.pdf">PLDI'15</a>, 
+<a href="/documents/samak-fse15.pdf">FSE'15</a>, <a href="/documents/samak-oopsla16.pdf">OOPSLA'16</a>), improving the precision
+of dynamic analysis for bug detection (<a href="/documents/samak-ppopp14.pdf">PPoPP'14</a>), applying program synthesis 
+for optimizing database queries (<a href="/documents/sosp17.pdf">SOSP'17</a>) and synthesizing adapters to enable 
+software library replacement (<a href="/documents/samak-popl20.pdf">POPL'20</a>). 
 Currently, I am working on efficient search techniques to identify replacement 
-Java classes from large codebase collections \([arXiv'21]\).
+Java classes from large codebase collections (<a href="https://arxiv.org/pdf/2110.05638.pdf">arXiv'21</a>).</p>
 
 <h3 style="color:Red;"> I am on the job market this year!</h3>
 
