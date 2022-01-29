@@ -1,4 +1,4 @@
-I"ö<h1> Peer-reviewed Publications </h1>
+I"<h1> Peer-reviewed Publications </h1>
 
 <ul>
   <li>
@@ -35,7 +35,7 @@ October, 2016. <a href="/documents/slides/Minion.pdf">Slides</a>.</p>
     <b>Malavika Samak</b>, Murali  Krishna Ramanathan.<br />
     10th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE).<br />
 September, 2015. <a href="/documents/slides/FSE-2015.pdf">Slides</a>.
-    <a href="https://sites.google.com/view/samak-intruder/home">Tool</a>.</p>
+    <a href="https://sites.google.com/view/samak-intruder/home">(Software)</a></p>
   </li>
   <li>
     <p><a href="/documents/samak-pldi15.pdf">Synthesizing Racy Tests</a>.
@@ -43,14 +43,14 @@ September, 2015. <a href="/documents/slides/FSE-2015.pdf">Slides</a>.
     <b>Malavika Samak</b>, Murali  Krishna Ramanathan, Suresh Jagannathan.<br />
     36th Annual ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI).<br />
 June, 2015. <a href="/documents/slides/PLDI-2015.pdf">Slides</a>.
-    <a href="https://sites.google.com/view/samak-narada/home">Tool</a>.</p>
+    <a href="https://sites.google.com/view/samak-narada/home">(Software)</a></p>
   </li>
   <li>
     <p><a href="/documents/samak-ooplsa14.pdf">Multithreaded Test Synthesis for Deadlock Detection</a>.
     <br />
     <b>Malavika Samak</b>, Murali  Krishna Ramanathan.<br />
     Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA).<br />
-October, 2014. <a href="https://sites.google.com/view/omen-plus/home">Tool</a>.</p>
+October, 2014. <a href="https://sites.google.com/view/omen-plus/home">(Software)</a></p>
   </li>
   <li>
     <p><a href="/documents/samak-ppopp14.pdf">Trace Driven Dynamic Deadlock Detection and Reproduction</a>.

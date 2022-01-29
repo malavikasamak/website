@@ -92,7 +92,7 @@ tool_pubs:
     {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}.<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}{% if pub.tool %}[Tool]({{pub.tool}}).
+    {% endif %}{% if pub.tool %}[(Software)]({{pub.tool}})
     {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
     {% endif %}
