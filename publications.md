@@ -15,7 +15,7 @@ pubs:
     year: "2020"
     booktitle: "47th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL)"
     url: "/documents/samak-popl20.pdf" 
-    slides: "https://drive.google.com/file/d/1sH1A_C_KVGIWyDY3TdOFIW7ncm_3jh-n/view?usp=sharing"
+    slides: "/documents/slides/POPL-2020.pdf"
 
   - author: "Matthias Schlaipfer, Kaushik Rajan, Akash Lal, <b>Malavika Samak</b>"
     title: "Optimizing Big-Data Queries Using Program Synthesis"
@@ -30,7 +30,7 @@ pubs:
     year: "2016"
     booktitle: "Annual Conference on Object-oriented Programming, Systems, Languages, and Applications (OOPSLA)"
     url: "/documents/samak-oopsla16.pdf"
-    slides: "https://drive.google.com/open?id=0B00Hh2TNnne4YThLZlJ6WnExV28"
+    slides: "/documents/slides/Minion.pdf"
 
   - author: "<b>Malavika Samak</b>, Murali  Krishna Ramanathan"
     title: "Synthesizing Tests for Detecting Atomicity Violations"
@@ -38,7 +38,7 @@ pubs:
     year: "2015"
     booktitle: "10th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)"
     url: "/documents/samak-fse15.pdf"
-    slides: "https://drive.google.com/file/d/0B00Hh2TNnne4WVdFX3JpZWxtM2s/view?usp=sharing"
+    slides: "/documents/slides/FSE-2015.pdf"
 
   - author: "<b>Malavika Samak</b>, Murali  Krishna Ramanathan, Suresh Jagannathan"
     title: "Synthesizing Racy Tests"
@@ -46,7 +46,7 @@ pubs:
     year: "2015"
     booktitle: "36th Annual ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
     url: "/documents/samak-pldi15.pdf"
-    slides: "https://drive.google.com/file/d/0B50Ds4dSESBaNTBxeDdJQXJ3NlU/view?usp=sharing"
+    slides: "/documents/slides/PLDI-2015.pdf"
 
   - author: "<b>Malavika Samak</b>, Murali  Krishna Ramanathan"
     title: "Multithreaded Test Synthesis for Deadlock Detection"
