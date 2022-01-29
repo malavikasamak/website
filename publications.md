@@ -39,6 +39,7 @@ pubs:
     booktitle: "10th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)"
     url: "/documents/samak-fse15.pdf"
     slides: "/documents/slides/FSE-2015.pdf"
+    tool: "https://sites.google.com/view/samak-intruder/home"
 
   - author: "<b>Malavika Samak</b>, Murali  Krishna Ramanathan, Suresh Jagannathan"
     title: "Synthesizing Racy Tests"
@@ -47,6 +48,7 @@ pubs:
     booktitle: "36th Annual ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
     url: "/documents/samak-pldi15.pdf"
     slides: "/documents/slides/PLDI-2015.pdf"
+    tool: "https://sites.google.com/view/samak-narada/home"
 
   - author: "<b>Malavika Samak</b>, Murali  Krishna Ramanathan"
     title: "Multithreaded Test Synthesis for Deadlock Detection"
@@ -54,6 +56,7 @@ pubs:
     year: "2014"
     booktitle: "Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)"
     url: "/documents/samak-ooplsa14.pdf"
+    tool: "https://sites.google.com/view/omen-plus/home"
 
   - author: "<b>Malavika Samak</b>, Murali  Krishna Ramanathan"
     title: "Trace Driven Dynamic Deadlock Detection and Reproduction"
@@ -89,6 +92,7 @@ tool_pubs:
     {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}.<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
+    {% endif %}{% if pub.tool %}[Tool]({{pub.tool}}).
     {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
     {% endif %}
