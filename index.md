@@ -41,7 +41,8 @@ Currently, I am working on efficient search techniques to identify replacement
 Java classes from large codebase collections (<a href="https://arxiv.org/pdf/2110.05638.pdf">arXiv'21</a>).</p>
 
 
-<span style="white-space: nowrap;color:Red">I am on the job market this year! <a href="documents/Research_Statement.pdf">Research Statement,</a> <a href="documents/Malavika_CV.pdf">CV</a> </span>
+<!--span style="white-space: nowrap;color:Red">I am on the job market this year! <a href="documents/Research_Statement.pdf">Research Statement,</a> <a href="documents/Malavika_CV.pdf">CV</a> 
+</span-->
 
 
 <h2> Select Publications</h2>

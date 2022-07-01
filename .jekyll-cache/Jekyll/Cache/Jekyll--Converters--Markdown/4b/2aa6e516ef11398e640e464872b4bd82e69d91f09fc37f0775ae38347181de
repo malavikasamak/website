@@ -1,4 +1,4 @@
-I"¿<h1> Malavika Samak </h1>
+I"¾<h1> Malavika Samak </h1>
 <p align="justify">I am a Postdoctoral Associate at <a href="https://www.csail.mit.edu/">CSAIL, MIT</a> working with 
 <a href="http://people.csail.mit.edu/rinard/">Prof. Martin Rinard</a>. 
 I received my Ph.D. from <a href="https://iisc.ac.in/">IISc, Bangalore</a>, and was supported 
@@ -20,7 +20,8 @@ software library replacement (<a href="/documents/samak-popl20.pdf">POPL'20</a>)
 Currently, I am working on efficient search techniques to identify replacement 
 Java classes from large codebase collections (<a href="https://arxiv.org/pdf/2110.05638.pdf">arXiv'21</a>).</p>
 
-<p><span style="white-space: nowrap;color:Red">I am on the job market this year! <a href="documents/Research_Statement.pdf">Research Statement,</a> <a href="documents/Malavika_CV.pdf">CV</a> </span></p>
+<!--span style="white-space: nowrap;color:Red">I am on the job market this year! <a href="documents/Research_Statement.pdf">Research Statement,</a> <a href="documents/Malavika_CV.pdf">CV</a> 
+</span-->
 
 <h2> Select Publications</h2>
 
