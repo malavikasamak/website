@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malavika Samak | CSAIL, MIT"
+title                    : "Malavika Samak | Apple Inc."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Malavika Samak"
@@ -25,7 +25,7 @@ url                      : "https://malavikasamak.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/logo-2C-notext.svg"
-logo                     : "/assets/images/logo-2C-notext.svg"
+#logo                     : "/assets/images/logo-2C-notext.svg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Malavika Samak"
   avatar           : "/assets/images/malavika.png"
-  bio              : "Postdoctoral Associate, MIT"
+  bio              : "Program Analysis Engineer"
   location         : #"The Stata Center, Building 32-G740, 32 Vassar St, Cambridge, MA 02139"
-  email            : malavika@csail.mit.edu
+  email            : malavika.samak@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

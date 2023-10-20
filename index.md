@@ -19,8 +19,9 @@ pubs:
     url: "/documents/samak-pldi15.pdf"
 ---
 <h1> Malavika Samak </h1>
-<p align="justify">I am a Postdoctoral Associate at <a href="https://www.csail.mit.edu/">CSAIL, MIT</a> working with 
-<a href="http://people.csail.mit.edu/rinard/">Prof. Martin Rinard</a>. 
+<p align="justify">I am a program analysis engineer at Apple Inc. working towards mitigating security 
+vulnerabilities in programs. Before this, I was a 
+Postdoctoral Associate at <a href="https://www.csail.mit.edu/">CSAIL, MIT</a>. 
 I received my Ph.D. from <a href="https://iisc.ac.in/">IISc, Bangalore</a>, and was supported 
 by a <a href="https://research.google/outreach/phd-fellowship/recipients/?category=2015">Google India Ph.D. fellowship</a>. My research interests are in programming
 languages and software engineering. More specifically: </p>
@@ -36,9 +37,9 @@ for detecting concurrency bugs in software libraries (<a href="/documents/samak-
 <a href="/documents/samak-fse15.pdf">FSE'15</a>, <a href="/documents/samak-oopsla16.pdf">OOPSLA'16</a>), improving the precision
 of dynamic analysis for bug detection (<a href="/documents/samak-ppopp14.pdf">PPoPP'14</a>), applying program synthesis 
 for optimizing database queries (<a href="/documents/sosp17.pdf">SOSP'17</a>) and synthesizing adapters to enable 
-software library replacement (<a href="/documents/samak-popl20.pdf">POPL'20</a>). 
-Currently, I am working on efficient search techniques to identify replacement 
-Java classes from large codebase collections (<a href="https://arxiv.org/pdf/2110.05638.pdf">arXiv'21</a>).</p>
+software library replacement (<a href="/documents/samak-popl20.pdf">POPL'20</a>). I have also worked on efficient search techniques to identify replacement 
+Java classes from large codebase collections (<a href="https://arxiv.org/pdf/2110.05638.pdf">arXiv'21</a>). Currently, I am working on mitigating vulnerabilities in 
+C++ programs. More details can be found <a href="https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734"> here </a>. </p>
 
 
 <!--span style="white-space: nowrap;color:Red">I am on the job market this year! <a href="documents/Research_Statement.pdf">Research Statement,</a> <a href="documents/Malavika_CV.pdf">CV</a> 

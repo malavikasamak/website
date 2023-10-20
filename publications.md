@@ -2,11 +2,18 @@
 layout: home 
 author_profile: true
 pubs:
+  - author: "Michael Wang, Shashank Srikant, <b>Malavika Samak</b>, Una-May O’Reilly"
+    title: "RaceInjector: Injecting Races to Evaluate and Learn Dynamic Race Detection Algorithms"
+    month: "June"
+    year: "2023"
+    booktitle: "12th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis"
+    url: "https://dl.acm.org/doi/pdf/10.1145/3589250.3596142"
+
   - author: "<b>Malavika Samak</b>, Jose Pablo Cambronero, Martin Rinard"
     title: "Searching for Replacement Classes"
     month: "October"
     year: "2021"
-    booktitle: "Under submission"
+    booktitle: "arxiv"
     url: "https://arxiv.org/pdf/2110.05638.pdf"
 
   - author: "<b>Malavika Samak</b>, Deokhwan Kim, Martin Rinard"
