@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Malavika Samak | CSAIL, MIT</title>
+<!-- begin _includes/seo.html --><title>Malavika Samak | Apple Inc.</title>
 <meta name="description" content="Malavika Samak’s Homepage">
 
 
@@ -19,17 +19,15 @@
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Malavika Samak | CSAIL, MIT">
-<meta property="og:title" content="            Malavika Samak      CSAIL, MIT      ">
-<meta property="og:url" content="https://malavikasamak.com//index.md.bak">
+<meta property="og:site_name" content="Malavika Samak | Apple Inc.">
+<meta property="og:title" content="            Malavika Samak      Apple Inc.      ">
+<meta property="og:url" content="http://localhost:4000/index.md.bak">
 
 
   <meta property="og:description" content="Malavika Samak’s Homepage">
 
 
 
-  <meta property="og:image" content="https://malavikasamak.com//assets/images/logo-2C-notext.svg">
-
 
 
 
@@ -43,7 +41,7 @@
   
 
 
-<link rel="canonical" href="https://malavikasamak.com//index.md.bak">
+<link rel="canonical" href="http://localhost:4000/index.md.bak">
 
 
 
@@ -54,7 +52,7 @@
     
       "@type": "Person",
       "name": "Malavika Samak",
-      "url": "https://malavikasamak.com//"
+      "url": "http://localhost:4000/"
     
   }
 </script>
@@ -71,7 +69,7 @@
 
 
 
-  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Malavika Samak | CSAIL, MIT Feed">
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Malavika Samak | Apple Inc. Feed">
 
 
 <!-- https://t.co/dKP3o1e -->
@@ -91,7 +89,7 @@
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
-<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+<!-- link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"-->
 <!-- end custom head snippets -->
 
   </head>
@@ -116,10 +114,8 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/assets/images/logo-2C-notext.svg" alt="Malavika Samak | CSAIL, MIT"></a>
-        
         <a class="site-title" href="/">
-          Malavika Samak | CSAIL, MIT
+          Malavika Samak | Apple Inc.
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
@@ -156,7 +152,7 @@
 
   
     <div class="author__avatar">
-      <a href="https://malavikasamak.com//">
+      <a href="http://localhost:4000/">
         <img src="/assets/images/malavika.png" alt="Malavika Samak" itemprop="image" class="u-photo">
       </a>
     </div>
@@ -164,11 +160,11 @@
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="https://malavikasamak.com//" itemprop="url">Malavika Samak</a>
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Malavika Samak</a>
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
-        <p>Postdoctoral Associate, MIT</p>
+        <p>Program Analysis Engineer</p>
 
       </div>
     
@@ -199,8 +195,8 @@
 
       
         <li>
-          <a href="mailto:malavika@csail.mit.edu" rel="me" class="u-email">
-            <meta itemprop="email" content="malavika@csail.mit.edu" />
+          <a href="mailto:malavika.samak@gmail.com" rel="me" class="u-email">
+            <meta itemprop="email" content="malavika.samak@gmail.com" />
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
           </a>
         </li>
@@ -348,7 +344,7 @@ classes from a search space as large as 600 thousand classes.
   </ul>
 </div-->
 
-<div class="page__footer-copyright">&copy; 2022 Malavika Samak. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2025 Malavika Samak. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
